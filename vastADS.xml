@@ -11,16 +11,16 @@
 		<Creatives>
 			<Creative>
 				<Linear>
-					<Duration>00:00:30</Duration>
+					<Duration>00:00:10</Duration>
 					<TrackingEvents></TrackingEvents>
 					<VideoClicks>
 					<ClickThrough id="scanscout">
-					<![CDATA[ http://streamzone.click ]]>
+					<![CDATA[ https://t.me/streamzone0 ]]>
 					</ClickThrough>
 					</VideoClicks>
 					<MediaFiles>
 						<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
-							<![CDATA[https://streamzone.click/storage/video.mp4]]>
+							<![CDATA[https://streamzone.click/storage/reklam.mp4]]>
 						</MediaFile>
 					</MediaFiles>
 				</Linear>
