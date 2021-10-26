@@ -19,7 +19,7 @@
 					</ClickThrough>
 					</VideoClicks>
 					<MediaFiles>
-						<MediaFile height="360" width="144" bitrate="465" type="video/mp4" delivery="progressive">
+						<MediaFile height="144" width="360" bitrate="465" type="video/mp4" delivery="progressive">
 							<![CDATA[https://streamzone.click/storage/tipobet.mp4]]>
 						</MediaFile>
 					</MediaFiles>
